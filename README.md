@@ -5,8 +5,7 @@ How to build a NYTimes Digits style app in React Native
 
 You can find the full instructional blog post over on [Medium](https://medium.com/@majoseph2013/build-your-own-nytimes-digits-style-game-in-react-native-a03da54a2ea5)
 
-<img width="1351" alt="MinuteBeat Numbers" src="https://github.com/Technicolor-Dreamcoat/LightningMath/assets/130793433/b4a8ee1b-82a7-4012-8f16-899497bfacfd">
-
+<img width="693" alt="MinuteBeat Numbers" src="https://github.com/Technicolor-Dreamcoat/LightningMath/assets/130793433/a5c8e678-3a18-486f-9270-36227d512578">
 
 **Steps to run:**
 
